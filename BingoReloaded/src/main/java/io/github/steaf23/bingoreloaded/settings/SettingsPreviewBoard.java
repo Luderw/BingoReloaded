@@ -14,7 +14,7 @@ public class SettingsPreviewBoard extends InfoScoreboard
 {
     private static final BaseComponent[] TITLE = new ComponentBuilder("")
             .append("Bingo", ComponentBuilder.FormatRetention.NONE).color(ChatColor.DARK_AQUA).bold(true)
-            .append("Ⓡeloaded", ComponentBuilder.FormatRetention.NONE).color(ChatColor.YELLOW).italic(true)
+            .append("Test", ComponentBuilder.FormatRetention.NONE).color(ChatColor.YELLOW).italic(true)
             .append("", ComponentBuilder.FormatRetention.NONE).create();
 
     public SettingsPreviewBoard()
